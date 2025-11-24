@@ -1,10 +1,10 @@
-## Run Locally
+## 本地运行
 
-**Prerequisites:**  Node.js
+**条件:**  Node.js
 
 
-1. Install dependencies:
+1. 安装依赖:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+2. 将`GEMINI_API_KEY` in [.env.local](.env.local) 设置为你的 Gemini API 密钥
+3. 运行应用:
    `npm run dev`
